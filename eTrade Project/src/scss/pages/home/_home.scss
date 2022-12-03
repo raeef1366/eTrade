@@ -1,0 +1,137 @@
+.container{
+    .row{
+        margin-top: 10px;
+    
+    button{
+        position: relative;
+        top: -60px;
+        left: 80px;
+        display: flex
+    }
+    
+    
+    
+    
+    h1{
+        font-size: 20px;
+    }
+    p{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    
+    
+    h2{
+        font-size: 20px;
+    }
+    
+    h3{
+        font-size: 20px;
+    }
+    
+    
+    h4{
+        font-size: 20px;
+    }
+    
+    h5{
+        font-size: 20px; 
+    }
+    
+    h6{
+        font-size: 20px;
+    }
+    
+    }
+    }
+    
+    
+    
+    #news{
+        width: 700px;
+        height: 400px;
+        background-color: #BDD4E7;
+        border-radius: 20px;
+        justify-content: center;
+        width: 100%;
+        height: 300px;
+    h1{
+        
+        display: flex;
+        justify-content: center;
+        font-size: 25px;
+        color: #0CBABA;
+    }
+    p{
+        display: flex;
+        justify-content: center;
+        font-size: 35px;
+        font-weight: bold;
+    }
+    
+    .input_1{
+       
+        input{
+            display: flex;
+            margin: 0px auto;
+            text-align: center;
+            border-radius: 20px;
+            border: none;
+            width: 270px;
+            height: 50px;
+            
+           
+        }
+    }
+    
+    
+    button{
+        margin: 0px auto;
+        margin-top: 20px;
+        display: flex;
+        width: 150px;
+        height: 50px;
+        background-color: black;
+        color: white;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    }
+    
+    .modal-1{
+        
+        .modal-body{
+            width: 100%;
+            
+        .text1{
+            font-size: 20px;
+        text-decoration: none;
+        }    
+    
+        
+    
+    }
+          
+        .pult_item{
+            img{
+                width: 200px;
+            }
+        }
+        
+        // .btn_pult{
+        //     display: block;
+        //     .btn-modal{
+        //     margin-top: 20px;
+        //     display: flex;
+           
+            
+        //     text-align: center;
+        //     align-items: center;
+        //    border-radius: 20px;
+        //    border: none;
+        //    justify-content: center;
+        // }
+        // }
+    }
+    
